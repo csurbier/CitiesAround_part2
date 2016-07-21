@@ -1,0 +1,9 @@
+django == 1.9
+djangorestframework
+djangorestframework-gis
+django-filter
+psycopg2
+Pillow
+drfdocs
+django-oauth-toolkit
+django-filter
